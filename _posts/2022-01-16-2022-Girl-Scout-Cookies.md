@@ -34,5 +34,5 @@ Caramel deLites are crispy cookies topped with caramel, toasted coconut and fudg
 ![Peanut Butter Sandwiches](/assets/7-pbs.jpg)
 Peanut butter sandwiches are a crisp and crunchy oatmeal cookie that has creamy peanut butter filling that tastes good.
 
-If you want to purchase my delicious cookies, please contact my parents or send an email to —> ccui2020@gmail.com!
+If you want to purchase my delicious cookies, please contact my parents or send an email to me! The cookies are $5 per box.
 
