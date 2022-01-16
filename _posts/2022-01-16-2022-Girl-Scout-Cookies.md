@@ -14,8 +14,9 @@ Let me introduce them one by one to you.
 # Lemonades:
 ![Lemonades](/assets/1-lemondate.jpg)
 Lemonades have savory slices of shortbread with refreshing and tangy lemon-flavored icing that tastes awesome. 
+
 # Thin Mints
-![ThinMints](/assets/2-thinmints.jpg)
+![ThinMints](/assets/2-thin mints.jpg)
 Thin Mints are crispy chocolate wafers with dipped-on mint coatings that taste the best!! 
 # Adventurefuls
 ![Adventurefuls](/assets/4-adventurefuls.jpg)
@@ -30,7 +31,7 @@ Peanut butter patties are crispy cookies layered with peanut butter and covered 
 ![CarameldeLites](/assets/5-carameldelite.jpg)
 Caramel deLites are crispy cookies topped with caramel, toasted coconut and fudge stripes that are mouth-watering and is a bestseller!
 # Peanut Butter Sandwiches
-![Peanut Butter Sandwiches] (/assets/7-pbs.jpg)
+![Peanut Butter Sandwiches](/assets/7-pbs.jpg)
 Peanut butter sandwiches are a crisp and crunchy oatmeal cookie that has creamy peanut butter filling that tastes good.
 
 If you want to purchase my delicious cookies, please contact my parents or send an email to —> ccui2020@gmail.com!
