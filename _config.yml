@@ -27,7 +27,6 @@ domain: cui-cindy.github.io       # if you want to force HTTPS, specify the doma
 url: https://cui-cindy.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: cui-cindy
 github_username:  cui-cindy
 
 # Build settings
